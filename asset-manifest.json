@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ronak.com/static/css/main.e20ea432.css",
+    "main.js": "/Ronak.com/static/js/main.a0226700.js",
+    "index.html": "/Ronak.com/index.html",
+    "main.e20ea432.css.map": "/Ronak.com/static/css/main.e20ea432.css.map",
+    "main.a0226700.js.map": "/Ronak.com/static/js/main.a0226700.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20ea432.css",
+    "static/js/main.a0226700.js"
+  ]
+}
