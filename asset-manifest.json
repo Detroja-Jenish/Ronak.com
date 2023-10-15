@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ronak.com/static/css/main.e20ea432.css",
-    "main.js": "/Ronak.com/static/js/main.a0226700.js",
+    "main.css": "/Ronak.com/static/css/main.692785d7.css",
+    "main.js": "/Ronak.com/static/js/main.93262c67.js",
     "index.html": "/Ronak.com/index.html",
-    "main.e20ea432.css.map": "/Ronak.com/static/css/main.e20ea432.css.map",
-    "main.a0226700.js.map": "/Ronak.com/static/js/main.a0226700.js.map"
+    "main.692785d7.css.map": "/Ronak.com/static/css/main.692785d7.css.map",
+    "main.93262c67.js.map": "/Ronak.com/static/js/main.93262c67.js.map"
   },
   "entrypoints": [
-    "static/css/main.e20ea432.css",
-    "static/js/main.a0226700.js"
+    "static/css/main.692785d7.css",
+    "static/js/main.93262c67.js"
   ]
 }
